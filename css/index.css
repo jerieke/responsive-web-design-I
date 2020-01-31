@@ -276,13 +276,15 @@ padding-bottom: 10px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding-left: 100px;
     
 }
 address{
     width: 200px;
 }
 .middle-img{
-    width: 280px;
+    width: 500px;
+    padding: 2% 10%;
 }
 
 }
