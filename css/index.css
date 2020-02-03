@@ -162,6 +162,8 @@ span.phone-number{
     .top{
         display: flex;
         flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
         width: 100%;
     }
     .navigation{
